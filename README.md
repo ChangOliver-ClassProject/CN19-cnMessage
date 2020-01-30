@@ -5,9 +5,9 @@ Python 3
 
 For best user experience, please use full screen terminal ><
 
-## Used Modules:
-* PyQt5 (GUI)
-* termcolor
+## Modules
+*   PyQt5 (GUI)
+*   termcolor
 *	threading
 *	pycrypto
 *	hashlib
@@ -17,7 +17,7 @@ For best user experience, please use full screen terminal ><
 *	select
 *	queue
 *	time
-* sys
+*   sys
 *	os
 
 ## Features
