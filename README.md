@@ -2,6 +2,7 @@
 ## Environment 
 MacOS terminal  
 Python 3  
+
 For best user experience, please use full screen terminal ><
 
 ## Used Modules:
@@ -21,8 +22,8 @@ For best user experience, please use full screen terminal ><
 
 ## Features
 * AES message encryption, key exchange with RSA key scheme
-*	Terminal & Graphical UI (half-complete GUI)
-*	New message alert
+* Terminal & Graphical UI (half-complete GUI)
+* New message alert
 
 ## Install (Local)
 
@@ -35,6 +36,8 @@ For best user experience, please use full screen terminal ><
     $ python3 client/client.py  (TUI) 
     
     $ python3 client/GUI/app.py (GUI)
+    
+Empty folders act as storages for essential data, do not remove them!
 
 ## Contributors
 * [Enting Lin](https://github.com/lin9999) (NTU_CSIE B06)  
